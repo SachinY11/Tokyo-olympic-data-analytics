@@ -11,11 +11,12 @@
 # Dataset details:
   There are 5 datasets from which the data was extracted to perform analysis.
 
-  Athletes data: The file contains all athletes data. Columns: Name, National Olympic Committee (NOC) and Discipline
-  Coaches data: The file contains coaches names. Columns: Name, National Olympic Committee (NOC), Discipline and Event
-  Entries Gender data: The file contains males and females data. Columns: Discipline, Female, Male and Total
-  Medals data: The file contains ranks and all the three medals. Columns: Rank, Team/NOC, Gold, Silver, Bronze, Total, Rank by Total
-  Teams Data: The file contains all the teams. Columns: Name, National Olympic Committee (NOC), Discipline and Event
+  - Athletes data: The file contains all athletes data. Columns: Name, National Olympic Committee (NOC) and Discipline
+  - Coaches data: The file contains coaches names. Columns: Name, National Olympic Committee (NOC), Discipline and Event
+  - Entries Gender data: The file contains males and females data. Columns: Discipline, Female, Male and Total
+  - Medals data: The file contains ranks and all the three medals. Columns: Rank, Team/NOC, Gold, Silver, Bronze, Total, Rank by Total
+  - Teams Data: The file contains all the teams. Columns: Name, National Olympic Committee (NOC), Discipline and Event
+    
 # Conclusion:
   Analyzed the data and created various graphs such as bar charts, pie charts, word clouds, histograms, and so on. It was simple to visualize the medal tally at the Tokyo Olympics thanks to charts.
 
