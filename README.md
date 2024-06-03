@@ -1,9 +1,9 @@
 # Tokyo-olympic-data-analytics
--- Introduction:
-Visualising Datasets from Tokyo Olympics 2021 (2020).
+# Introduction:
+  Visualising Datasets from Tokyo Olympics 2021 (2020).
 
-Purpose:
-The goal of this project is to use graphs, bar charts, normal charts, and pie charts to do Data Analysis and Data Visualization on the 'Tokyo Olympics 2021' dataset. Medal tallies are used to compare all of the countries' victories. This document contains information on nearly 11,000 competitors representing 47 sports and 743 teams competing in the Tokyo Olympics in 2021 (2020).
+# Purpose:
+  The goal of this project is to use graphs, bar charts, normal charts, and pie charts to do Data Analysis and Data Visualization on the 'Tokyo Olympics 2021' dataset. Medal tallies are used to compare all     of the countries' victories. This document contains information on nearly 11,000 competitors representing 47 sports and 743 teams competing in the Tokyo Olympics in 2021 (2020).
 
 About the dataset:
 This dataset includes information on the athletes, coaches, and teams who competed, as well as gender-specific entries. It includes their names, the countries they represent, the discipline they compete in, the gender of the athletes, and the names of the coaches.
